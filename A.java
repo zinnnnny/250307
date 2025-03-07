@@ -3,4 +3,5 @@ public class A{
   int b = 30;
   double d = 10.9;
   String str = "바보";
+  double e = 3.4;
 }
